@@ -25,15 +25,21 @@ A fun and engaging Fantasy Sports App built using **React Native**. The app allo
 - **Cloud Sync:** Seamlessly sync data across devices.
 
 ---
+---
 
-## Screenshots
+<p align="center">
+  <a href="https://expo.dev/accounts/kishan89/projects/Fantasy_Realm/builds/2ff51383-2c6d-4f83-a912-d0db7ea1b7eb" target="_blank">
+    📲 Download Fantasy Realm APK
+  </a>
+</p>
+
+---
 
 ## Screenshots
 
 <img src="assets/demo/signup.jpeg" width="250"/> <img src="assets/demo/login.jpeg" width="250"/> <img src="assets/demo/forgot.jpeg" width="250"/> 
 <img src="assets/demo/matches.jpeg" width="250"/> <img src="assets/demo/team.jpeg" width="250"/> <img src="assets/demo/myteams.jpeg" width="250"/>  
 <img src="assets/demo/preview.jpeg" width="250"/>  
-
 
 ---
 

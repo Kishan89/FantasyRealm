@@ -82,7 +82,7 @@ const TeamPreviewScreen = ({ route, navigation }) => {
     return (
         <View style={{flex: 1}}>
             <ImageBackground 
-                source={require('../assets/ground.png')}
+                source={require('../assets/ground.jpg')}
                 resizeMode="cover"
                 style={styles.ground}
             >
